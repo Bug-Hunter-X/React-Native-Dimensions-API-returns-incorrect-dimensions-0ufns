@@ -1,0 +1,1 @@
+This bug occurs when using the `Dimensions` API in React Native to get screen dimensions.  Sometimes, the dimensions returned are incorrect or zero, particularly during initial app launch or when the screen orientation changes. This can lead to layout issues where components are not rendered correctly or are positioned incorrectly.
